@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
 It is a rock paper scissors game. 
-- Creates a random choice for AI and compares it with user choice.
+- Creates a random choice for Computer and compares it with User choice.
 - Updates the score.
 - User can restart the game by clicking the "Restart" button.
 
